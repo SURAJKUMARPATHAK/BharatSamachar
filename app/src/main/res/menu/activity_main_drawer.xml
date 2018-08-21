@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Home"
+            android:title="Home" />
+        <item
+            android:id="@+id/LiveTv"
+            android:title="LiveTv" />
+        <item
+            android:id="@+id/Photo"
+            android:title="Photo" />
+        <item
+            android:id="@+id/Vedio"
+            android:title="Vedio" />
+        <item
+            android:id="@+id/Section"
+            android:title="Section" />
+        <item
+            android:id="@+id/Karyakarm"
+            android:title="Karyakarm" />
+        <item
+            android:id="@+id/Playlist"
+            android:title="Playlist" />
+        <item
+            android:id="@+id/Favourite"
+            android:title="Fabrate"/>
+        <item
+            android:id="@+id/ReadOffline"
+            android:title="ReadOffline" />
+        <item
+            android:id="@+id/Notification"
+            android:title="Notifacation" />
+        <item
+            android:id="@+id/RateApp"
+            android:title="RateApp" />
+        <item
+            android:id="@+id/ShareApp"
+            android:title="ShareApp" />
+        <item
+            android:id="@+id/Settings"
+            android:title="Settings" />
+
+    </group>
+
+</menu>
